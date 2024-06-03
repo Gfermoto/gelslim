@@ -22,10 +22,10 @@
 ## Программное обеспечение
 | Raspberry Pi | Зависимости | GUI | Калибровка |
 |---|---|---|---|
-| <a href="  "><img src="src/images/software/raspberrypi_pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.jpg" width="270"></a>| <a href="  "><img src="src/images/software/gui.jpg" width="270"></a>| <a href="  "><img src="src/images/software/calibration.jpg" width="270"></a>| 
+| <a href="Software/Raspberry Pi"><img src="src/images/software/raspberrypi_pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.jpg" width="270"></a>| <a href="Software/GUI"><img src="src/images/software/gui.jpg" width="270"></a>| <a href="  "><img src="src/images/software/calibration.jpg" width="270"></a>| 
 
 ## Подробнее
-| Механические инструменты и расходные материалы | EЭлектронные компоненты и инструменты | Известные вопросы | Содействие |
+| Механические инструменты и расходные материалы | Электронные компоненты и инструменты | Известные вопросы | Содействие |
 |---|---|---|---|
 | <a href="  "><img src="src/images/more_details/mechanical.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/electronics.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/contributing.jpg" width="270"></a>|
 
@@ -37,14 +37,14 @@
 
 ## Заметки
 Этот репозиторий находится в стадии разработки, следующих файлов и папок нет.
-- Image links to and README documentation for root sub-folders
-	- Step-by-step Instructions
-	- Electrical
-	- Software
+- Ссылки на изображения и документацию README для корневых подпапок.
+	- Step-by-step Instructions (частично)
+	- Electrical (частично)
+	- Software (частично)
 	- More Details
-- /Simulation and Optimization/Results
-- /Simulation and Optimization/Settings
-- /Software/GUI 
+- /Simulation and Optimization/Results (частично)
+- /Simulation and Optimization/Settings (частично)
+- /Software/GUI (частично)
   - Tangential Force Calculation
   - Normal Force Calculation
 
