@@ -1,43 +1,42 @@
 # FingerEye 0.1
-**Click on the pictures below for more information**
+**Нажмите на изображения ниже для получения дополнительной информации**
 
-## Quick-Start
-Please follow the [Hardware Quick Start Guide](https://github.com/mcubelab/gelslim/blob/main/Hardware/GelSlim%20Hardware%20Quick%20Start%20Tutorial.pdf) instructions to build your own sensor. The step-by-step resources found below are in the process of being updated.
+## Быстрый старт
+Пожалуйста, следуйте [Hardware Quick Start Guide](https://github.com/mcubelab/gelslim/blob/main/Hardware/GelSlim%20Hardware%20Quick%20Start%20Tutorial.pdf) инструкции по сборке собственного датчика. Приведенные ниже пошаговые ресурсы находятся в процессе обновления.
 
-## Step-by-Step Instructions
-| 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
+## Пошаговая инструкция
+| 3D печать  | PCB gпроизводство | Производство эластомера | Сборка |
 |---|---|---|---|
 | <a href="  "><img src="src/images/step_by_step/3d_printing.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
-## Mechanical
-| Elastomer | Fasteners | Body | Shaping Lens |
+## Механика
+| Эластомер | Крепеж | Колпус | Оптическая линза |
 |---|---|---|---|
 | <a href="  "><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
 
-## Electrical
-| LED Driver | LED Harness | Camera | Connectors and Adapters |
+## Электрика
+| LED драйвер | LED сборка | Камера | Коннекторы и адаптерs |
 |---|---|---|---|
 | <a href="  "><img src="src/images/electrical/led_driver.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/led_harness.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/camera.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/connectors_and_adapters.JPG" width="270"></a>| 
 
-## Software
-| Raspberry Pi | Dependencies | GUI | Calibration |
+## Программное обеспечение
+| Raspberry Pi | Зависимости | GUI | Калибровка |
 |---|---|---|---|
 | <a href="  "><img src="src/images/software/raspberrypi_pcb.jpg" width="270"></a>| <a href="  "><img src="src/images/software/dependencies.jpg" width="270"></a>| <a href="  "><img src="src/images/software/gui.jpg" width="270"></a>| <a href="  "><img src="src/images/software/calibration.jpg" width="270"></a>| 
 
-## More Details
-| Mechanical Tools and Consumables | Electronics Components and Tools | Known Issues | Contributing |
+## Подробнее
+| Механические инструменты и расходные материалы | EЭлектронные компоненты и инструменты | Известные вопросы | Содействие |
 |---|---|---|---|
 | <a href="  "><img src="src/images/more_details/mechanical.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/electronics.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/known_issues.jpg" width="270"></a>| <a href="  "><img src="src/images/more_details/contributing.jpg" width="270"></a>|
 
-## More Information
+## Дополнительная информация
 [GelSlim 3.0 - Webpage](https://ianhtaylor.net/gelslim-30)<br>
 [GelSlim 3.0 - Paper](https://arxiv.org/abs/2103.12269)<br>
 [GelSlim 3.0 - Demo](https://www.youtube.com/watch?v=Y10XN9byO0g)<br>
 [MCube Lab - YouTube Channel](https://www.youtube.com/channel/UCMYUWZTFWZjj7pUc3UPUjig)<br>    
 
-## Notice
-This repo is under construction, the following files and folders are not present.
-- src/images/step_by_step/3d_printing.jpg
+## Заметки
+Этот репозиторий находится в стадии разработки, следующих файлов и папок нет.
 - Image links to and README documentation for root sub-folders
 	- Step-by-step Instructions
 	- Mechanical
@@ -50,11 +49,9 @@ This repo is under construction, the following files and folders are not present
   - Tangential Force Calculation
   - Normal Force Calculation
 
-## Questions
-If you have questions or need help with the content of this repo please open a ticket. The MCube Manipulations and Mechanisms Lab also distributes pre-made sensors by mail upon request. Please direct all distribution inquiries to the following form https://forms.gle/MbcMEy3fS2nrsJG58.
+## Вопросы
 
-## Authors
-Ian Taylor
+## Авторы
 
-## License
-These design files are licensed under CC-by-NC, as found in the [LICENSE](https://github.com/mcubelab/gelslim/blob/main/LICENSE) file.
+## Лицензия
+Эти файлы проекта лицензируются по лицензии CC-by-NC, как указано в [LICENSE](https://github.com/mcubelab/gelslim/blob/main/LICENSE) file.
