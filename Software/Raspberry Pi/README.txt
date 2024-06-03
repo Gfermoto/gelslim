@@ -1,12 +1,12 @@
  RASPBERRY PI - Setup
 
-   1) Purchase a Raspberry Pi 3 with microSD card (>=64gb)
-   2) Flash Ubuntu Mate on to the microSD card 
+   1) Возьмите Raspberry Pi 3 с microSD card (>=64gb)
+   2) Установите Ubuntu Mate на microSD карту 
     -https://ubuntu-mate.org/
     -https://www.balena.io/etcher/
-   3) Install ROS Melodic on the Raspberry Pi 
+   3) Установите ROS Melodic на Raspberry Pi 
     -http://wiki.ros.org/melodic/Installation/Ubuntu
-   4) Download the Raspberry Pi Image Files
-    -https://drive.google.com/file/d/1tJJFsddHKVC8RBUEtGawACZJs3rvnD6q/view?usp=sharing
-   5) Copy the files to the Raspberry Pi and unzip them in the home directory
-   6) Follow the instructions in the GUI README to setup video streaming connection with computer over ethernet
+   4) Скачайте образ Raspberry Pi
+    -https://drive.google.com/file/d/1ZGIAz6NZ0dadbq10JgEx9H7Q8rlF-cqc/view?usp=sharing
+   5) Скопируйте файлы на Raspberry Pi и разархивируйте их в домашний каталог.
+   6) Следуйте инструкциям в файле README графического интерфейса, чтобы настроить получение потокового видео с компьютером через Ethernet.
