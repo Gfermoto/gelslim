@@ -12,7 +12,7 @@
 ## Механика
 | Эластомер | Крепеж | Корпус | Оптическая линза |
 |---|---|---|---|
-| <a href="Hardware/Mechanical/Elastomer"><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
+| <a href="Hardware/Mechanical/Elastomer"><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="Hardware/Mechanical/Fasteners"><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="Hardware/Mechanical/Finger"><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="Hardware/Mechanical/Shaping Lens"><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
 
 ## Электрика
 | LED драйвер | LED сборка | Камера | Коннекторы и адаптерs |
