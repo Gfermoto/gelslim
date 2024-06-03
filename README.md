@@ -17,7 +17,7 @@
 ## Электрика
 | LED драйвер | LED сборка | Камера | Коннекторы и адаптерs |
 |---|---|---|---|
-| <a href="  "><img src="src/images/electrical/led_driver.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/led_harness.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/camera.JPG" width="270"></a>| <a href="  "><img src="src/images/electrical/connectors_and_adapters.JPG" width="270"></a>| 
+| <a href="Hardware/Electrical/LED Driver"><img src="src/images/electrical/led_driver.JPG" width="270"></a>| <a href="Hardware/Electrical/LED Harness"><img src="src/images/electrical/led_harness.JPG" width="270"></a>| <a href="https://odseven.com/collections/raspberry-pi-camera/products/odseven-camera-for-raspberry-pi-zero-160-lens-15cm-long-5mp"><img src="src/images/electrical/camera.JPG" width="270"></a>| <a href="https://odseven.com/collections/raspberry-pi-camera/products/odseven-camera-cable-adapter"><img src="src/images/electrical/connectors_and_adapters.JPG" width="270"></a>| 
 
 ## Программное обеспечение
 | Raspberry Pi | Зависимости | GUI | Калибровка |
@@ -39,7 +39,6 @@
 Этот репозиторий находится в стадии разработки, следующих файлов и папок нет.
 - Image links to and README documentation for root sub-folders
 	- Step-by-step Instructions
-	- Mechanical
 	- Electrical
 	- Software
 	- More Details
