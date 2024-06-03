@@ -10,9 +10,9 @@
 | <a href="  "><img src="src/images/step_by_step/3d_printing.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
 ## Механика
-| Эластомер | Крепеж | Колпус | Оптическая линза |
+| Эластомер | Крепеж | Корпус | Оптическая линза |
 |---|---|---|---|
-| <a href="  "><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
+| <a href="Hardware/Mechanical/Elastomer"><img src="src/images/mechanical/elastomer.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/fasteners.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/body.JPG" width="270"></a>| <a href="  "><img src="src/images/mechanical/shaping_lens.JPG" width="270"></a>| 
 
 ## Электрика
 | LED драйвер | LED сборка | Камера | Коннекторы и адаптерs |
