@@ -1,4 +1,4 @@
-# GelSlim 3.0
+# FingerEye 0.1
 **Click on the pictures below for more information**
 
 ## Quick-Start
@@ -7,7 +7,7 @@ Please follow the [Hardware Quick Start Guide](https://github.com/mcubelab/gelsl
 ## Step-by-Step Instructions
 | 3-D Printing  | PCB Fabrication | Elastomer Fabrication | Assembly |
 |---|---|---|---|
-| <a href="  "><img src="" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
+| <a href="  "><img src="src/images/step_by_step/3d_printing.jpg" width="270"></a>| <a href="  "><img src="src/images/step_by_step/pcb.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/elastomer_fabrication.JPG" width="270"></a>| <a href="  "><img src="src/images/step_by_step/assembly.JPG" width="270"></a>| 
 
 ## Mechanical
 | Elastomer | Fasteners | Body | Shaping Lens |
