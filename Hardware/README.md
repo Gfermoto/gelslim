@@ -1,5 +1,5 @@
 # CAD Models
-Общедоступные файлы моделей электрического и механического оборудования можно найти по следующему адресу [link](https://cad.onshape.com/documents/d349cbe923c6f7dbdb5a9266/w/20eed945a1a4fb3729cc1f11/e/83841e7147a77c529f63497d) или можно загрузить из папок репозитория GitHub.
+Общедоступные файлы моделей электрического и механического оборудования можно найти по следующему адресу[ [link](https://cad.onshape.com/documents/d349cbe923c6f7dbdb5a9266/w/20eed945a1a4fb3729cc1f11/e/83841e7147a77c529f63497d) ](https://cad.onshape.com/documents/d349cbe923c6f7dbdb5a9266/w/20eed945a1a4fb3729cc1f11/e/83841e7147a77c529f63497d)или можно загрузить из папок репозитория GitHub.
 
 # Raspicam спектральный отклик
 Информацию об оптическом датчике Raspicam OV5647 можно найти [здесь](https://github.com/scivision/raspicam-spectra/).
