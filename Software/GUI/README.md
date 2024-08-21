@@ -1,7 +1,7 @@
 # GelSlim
-sudo apt update
-sudo apt upgrade
-sudo apt install python3-pip
+- sudo apt update
+- sudo apt upgrade
+- sudo apt install python3-pip
 ## System Requirements
 - Ubuntu 18.04 Bionic Beaver
 - Python 2.7
