@@ -1,9 +1,9 @@
  RASPBERRY PI - Setup
 
-   1) Возьмите Raspberry Pi 3 с microSD card (>=64gb)
-   2) Установите Ubuntu Mate на microSD карту 
-    -https://ubuntu-mate.org/
-    -https://www.balena.io/etcher/
+   1) Возьмите Raspberry Pi 5 с microSD card (>=64gb)
+   2) Установите Bookworm 64bit на microSD карту 
+   3) Установите Dosker 
+    - https://pimylifeup.com/raspberry-pi-docker/
    3) Установите ROS Melodic на Raspberry Pi 
     -http://wiki.ros.org/melodic/Installation/Ubuntu
    4) Скачайте образ Raspberry Pi
